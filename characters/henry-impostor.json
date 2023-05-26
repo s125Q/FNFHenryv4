@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-142,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "henry idle"
+		},
+		{
+			"offsets": [
+				18,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "henry left"
+		},
+		{
+			"offsets": [
+				-50,
+				-188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "henry down"
+		},
+		{
+			"offsets": [
+				-21,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "henry up"
+		},
+		{
+			"offsets": [
+				-117,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "henry right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/henry-impostor",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "henry-impostor",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		229,
+		249
+	],
+	"camera_position": [
+		60,
+		85
+	],
+	"sing_duration": 4,
+	"scale": 0.96
+}
